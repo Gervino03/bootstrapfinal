@@ -1,0 +1,79 @@
+footer {
+    background-color: white;
+    color:black#fff; 
+    text-align: center; 
+    padding: 20px; 
+}
+
+
+footer a {
+    color: black;
+    text-decoration: none;
+}
+footer a:hover {
+    text-decoration: underline;
+}
+.footerv1 .medsosv1{
+    float: left;
+    list-style: none;
+    font-size: 35px;
+    margin: 0 20px;
+}
+.csc {
+    display: flex;
+    margin-left: 500px;
+    margin-top: -25px;
+}
+
+.footer-col h4{
+font-family: Arial, Helvetica, sans-serif;
+}
+.footer-col ul{
+list-style: none;
+font-weight: 300;
+line-height: 135%;
+font-size: 13px;
+text-decoration: none;
+
+}
+.klk{
+    color: white;
+}
+#Langueages {
+    width: 200px;
+    height: 30px;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 1170px;
+    background-color: white;
+    margin: auto;
+}
+
+.footer {
+    background-color: white;
+    padding: 70px 0;
+}
+
+.row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between; 
+}
+
+.footer-col {
+    flex: 1; 
+    padding: 0 15px;
+}
+
+.footer-col h4 {
+    font-size: 18px;
+    color: black;
+    text-transform: capitalize;
+    margin-bottom: 30px;
+}
